@@ -16,7 +16,7 @@ module.exports = withContentlayer({
         protocol: 'https',
         hostname: 'github.com',
         port: '',
-        pathname: '/AJAYKE.png',
+        pathname: '/**',
       },
     ],
   },
