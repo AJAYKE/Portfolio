@@ -8,8 +8,8 @@ import LenisProvider from '@/components/Providers/LenisProvider';
 import ThemeProvider from '@/components/Providers/ThemeProvider';
 
 export const metadata = {
-  title: 'Dale Larroder',
-  description: 'I build things for the web.',
+  title: 'Ajay Edupuganti',
+  description: 'Software The Greates Collaborative Art',
   metadataBase: new URL('https://dalelarroder.com'),
 };
 

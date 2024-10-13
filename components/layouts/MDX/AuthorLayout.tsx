@@ -19,7 +19,7 @@ export default function AuthorLayout({ children, content }: Props) {
         </div>
         <div>
           <Image
-            alt="Dale Larroder"
+            alt="Ajay Edupuganti"
             height={130}
             width={130}
             src={avatar || ''}
